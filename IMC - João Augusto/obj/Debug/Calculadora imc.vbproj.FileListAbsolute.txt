@@ -1,0 +1,30 @@
+C:\Users\wokga\source\repos\Calculadora imc\bin\Debug\Calculadora imc.exe.config
+C:\Users\wokga\source\repos\Calculadora imc\bin\Debug\Calculadora imc.exe
+C:\Users\wokga\source\repos\Calculadora imc\bin\Debug\Calculadora imc.pdb
+C:\Users\wokga\source\repos\Calculadora imc\bin\Debug\Calculadora imc.xml
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora imc.vbprojAssemblyReference.cache
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora_imc.Resources.resources
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora imc.vbproj.GenerateResource.cache
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora imc.vbproj.CoreCompileInputs.cache
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora imc.exe
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora imc.xml
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora imc.pdb
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora_imc.Feminino.resources
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora_imc.Tabela.resources
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora_imc.Masculino.resources
+C:\Users\wokga\source\repos\Calculadora imc\obj\Debug\Calculadora_imc.Imc.resources
+C:\Users\Usuário\Downloads\Calculadora imc\bin\Debug\Calculadora imc.exe.config
+C:\Users\Usuário\Downloads\Calculadora imc\bin\Debug\Calculadora imc.exe
+C:\Users\Usuário\Downloads\Calculadora imc\bin\Debug\Calculadora imc.pdb
+C:\Users\Usuário\Downloads\Calculadora imc\bin\Debug\Calculadora imc.xml
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora imc.vbprojAssemblyReference.cache
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora_imc.Imc.resources
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora_imc.Resources.resources
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora_imc.Tabela.resources
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora imc.vbproj.GenerateResource.cache
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora imc.vbproj.CoreCompileInputs.cache
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora imc.exe
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora imc.xml
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora imc.pdb
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora_imc.Masc.resources
+C:\Users\Usuário\Downloads\Calculadora imc\obj\Debug\Calculadora_imc.Femi.resources
